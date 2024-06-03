@@ -7,4 +7,4 @@ The goal of this project was to refactor the homepage of a marketing agency usin
 ##Usage<p>
 <img width="1490" alt="horiseon" src="https://github.com/jewilli8/Horiseon/assets/35410042/9ee6c09e-056f-48d2-90e1-b21d3f52dd92"> </p>
 ##Credits <p>
-Starter code from <a href="https://github.com/coding-boot-camp/urban-octo-telegram> Urban-Otcto-telegram </a> </p>
+Starter code from <a href="https://github.com/coding-boot-camp/urban-octo-telegram"> Urban-Otcto-telegram </a> </p>
